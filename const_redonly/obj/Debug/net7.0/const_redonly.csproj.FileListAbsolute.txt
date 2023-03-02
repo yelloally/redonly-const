@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/const_redonly/bin/Debug/net7.0/const_redonly
+/Users/yellobunny/Projects/c_sharp/const_redonly/bin/Debug/net7.0/const_redonly.deps.json
+/Users/yellobunny/Projects/c_sharp/const_redonly/bin/Debug/net7.0/const_redonly.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/const_redonly/bin/Debug/net7.0/const_redonly.dll
+/Users/yellobunny/Projects/c_sharp/const_redonly/bin/Debug/net7.0/const_redonly.pdb
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.dll
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/refint/const_redonly.dll
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.pdb
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/const_redonly.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/const_redonly/obj/Debug/net7.0/ref/const_redonly.dll
